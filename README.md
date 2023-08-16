@@ -1,3 +1,6 @@
+# Devops-CI-CD-Pipeline
+Built a Jenkins CI/CD pipeline to design and build, test and deploy a web application docker container to remote EC2 instance on AWS 
+
 1)Created an EC2 instance on AWS
 
    - Created key pairs on AWS 
